@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/eureka/pom.xml" />
         <option value="$PROJECT_DIR$/dog-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dog-rest-and-graphql-api/pom.xml" />
       </list>
     </option>
   </component>

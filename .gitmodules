@@ -1,0 +1,3 @@
+[submodule "dog-rest-and-graphql-api"]
+	path = dog-rest-and-graphql-api
+	url = https://github.com/Ioana-Postolache/dog-rest-and-graphql-api.git
